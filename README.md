@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/s123572550/Pipeline%20test/_apis/build/status/moonape1226.pipelines-java?branchName=master)](https://dev.azure.com/s123572550/Pipeline%20test/_build/latest?definitionId=4&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
